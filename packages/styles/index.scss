@@ -1,0 +1,7 @@
+@import "./theme/light";
+
+@include theme() {
+  .c-363636 {
+    color: $c-363636;
+  }
+}

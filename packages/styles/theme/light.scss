@@ -1,0 +1,8 @@
+$c-363636: #363636;
+$c-5A5A5A: #5A5A5A;
+
+@mixin theme() {
+  .light-theme {
+    @content;
+  }
+}

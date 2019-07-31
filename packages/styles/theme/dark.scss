@@ -1,0 +1,8 @@
+$c-363636: #CCCCCC;
+$c-5A5A5A: #8E8E93;
+
+@mixin theme() {
+  .dark-theme {
+    @content;
+  }
+}
